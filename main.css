@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+header {
+    background: hsl(185, 75%, 39%);
+    padding-bottom: 190px;
+}
+
+.bck {
+    position: relative;
+}
+
+.bck_1 {
+    width: 630px;
+    margin-top: -110px;
+}
+
+.bck_2 {
+    width: 910px;
+    margin-left: 878px;
+    margin-top: -180px;
+}
+
+.card {
+    position: relative;
+    width: 500px;
+    margin-top: -1000px;
+    margin-left: 634px;
+}
+
+.card_top_img img {
+    width: 360px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin-top: -60px;
+    margin-left: -20px;
+}
+
+.card_info {
+    background: #fff;
+    width: 360px;
+    margin-top: -4px;
+    margin-left: -20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.card_info img {
+    border-radius: 50px;
+    position: relative;
+    margin-left: 127px;
+    margin-top: -53px;
+    border: 5px solid #fff;
+    background: #fff;
+}
+
+.card_info h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.age {
+    font-weight: normal;
+    color: hsl(0, 0%, 59%);
+}
+
+.country {
+    color: hsl(0, 0%, 59%);
+    text-align: center;
+}
+
+.stat {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.stat_title {
+    font-weight: 700;
+    padding-top: 20px;
+    padding-left: 16px;
+    font-size: 20px;
+}
+
+.stat_txt {
+    color: hsl(0, 0%, 59%);
+    padding-bottom: 20px;
+}
+
+.stat_txt_2 {
+    padding-left: 25px;
+}
+
+.stat_txt_3 {
+    padding-left: 15px;
+}
